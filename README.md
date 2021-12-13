@@ -6,4 +6,4 @@ Simply Love, pet, and hold as 2% from each transaction is automatically redistri
 
 Buy on PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x2b13058002970071ceb1e682793d7096220eae11
 
-LP Loked 78 years: https://www.pinksale.finance/#/pinklock/record/3412?chain=BSC
+LP Locked 78 years: https://www.pinksale.finance/#/pinklock/record/3412?chain=BSC
